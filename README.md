@@ -9,7 +9,7 @@ My main interests are game development, developer tools, automation, AI-assisted
 - **FileContext** — Local context and task notes for files and folders, powered by Everything search.
 - **CodeAndApplication** — Experiments, utilities, prototypes and application development projects.
 - **Games** — Game development projects and experiments.
-- **DocumentAndEducationMaterial** — Public notes and learning materials for programming, game development and creative tools.
+- **TechnicalNotes** — Public notes and learning materials for programming, game development and creative tools.
 
 ## Technologies I Use
 
